@@ -1,0 +1,16 @@
+h1{
+font-size: 30px;
+color: salmon;
+
+}
+
+h2{
+	color: red;
+	font-size: 20px;
+}
+.big{
+	font-size: 80px;
+}
+.uppercase{
+	text-transform: uppercase;
+}
